@@ -15,7 +15,7 @@
     },
     "Port": "{{server.build.default.port}}",
     "Server": {
-        "FileName": "{{SERVER_JARFILE}}",
+        "FileName": "server.jar",
         "Folder": "./",
         "Protocol": "Version is no official minecraft java release...",
         "Version": "{{VENDOR}} {{MINECRAFT_VERSION}}"
