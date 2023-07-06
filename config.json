@@ -9,11 +9,11 @@
         "CheckForUpdates": true,
         "Debug": false,
         "HibernationInfo": "                   \u0026fserver status:\n                   \u0026b\u0026lHIBERNATING",
-        "Port": "{{server.build.default.port}}",
+        "Port": "{{SERVER_PORT}}",
         "StartingInfo": "                   \u0026fserver status:\n                    \u00266\u0026lWARMING UP",
         "TimeBeforeStoppingEmptyServer": 120
     },
-    "Port": "{{server.build.default.port}}",
+    "Port": "{{SERVER_PORT}}",
     "Server": {
         "FileName": "server.jar",
         "Folder": "./",
