@@ -13,7 +13,7 @@
         "StartingInfo": "                   \u0026fserver status:\n                    \u00266\u0026lWARMING UP",
         "TimeBeforeStoppingEmptyServer": 120
     },
-    "Port": {{server.build.default.port}},
+    "Port": "{{server.build.default.port}}",
     "Server": {
         "FileName": "{{SERVER_JARFILE}}",
         "Folder": "./",
